@@ -1,0 +1,23 @@
+0.6
+2018.2
+Oct  1 2018
+18:29:25
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sim_1/new/deco_tb.v,1543863478,verilog,,,,deco_tb,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/imports/new/brg.v,1540409193,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/imports/new/fifo.v,,brg,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/imports/new/fifo.v,1539894679,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/imports/new/rx.v,,fifo,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/imports/new/rx.v,1539777640,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/uart.v,,rx,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/accumulator.v,1543961798,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/adder.v,,accumulator,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/adder.v,1543620952,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/control.v,,adder,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/control.v,1543865975,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/cpu.v,,control,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/cpu.v,1543955907,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/datapath.v,,cpu,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/datapath.v,1543954712,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/decoder.v,,datapath,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/decoder.v,1543964673,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/operation.v,,decoder,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/operation.v,1543874395,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/pc.v,,operation,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/pc.v,1543620946,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/ram.v,,pc,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/ram.v,1543967621,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/rom.v,,ram,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/rom.v,1543863741,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/selectA.v,,rom,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/selectA.v,1543964210,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/selectB.v,,selectA,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/selectB.v,1543874400,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/signal_ext.v,,selectB,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/signal_ext.v,1543870524,verilog,,/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sim_1/new/deco_tb.v,,signal_ext,,,,,,,,
+/media/lu/Data/FACU/ARQUITECTURA/PRACTICOS/2018/TP3/TP3v2/TP3v2.srcs/sources_1/new/uart.v,1543623180,verilog,,,,uart,,,,,,,,

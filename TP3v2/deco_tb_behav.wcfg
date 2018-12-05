@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="deco_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="deco_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="338150000fs"></ZoomStartTime>
+      <ZoomEndTime time="728001687fs"></ZoomEndTime>
+      <Cursor1Time time="446797000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="147"></NameColumnWidth>
+      <ValueColumnWidth column_width="66"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="21" />
+   <wvobject type="logic" fp_name="/deco_tb/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/deco_tb/rst">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/deco_tb/start">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/deco_tb/uut/controlUnit/deco/i_start">
+      <obj_property name="ElementShortName">i_start</obj_property>
+      <obj_property name="ObjectShortName">i_start</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/controlUnit/progCtr/pc_value">
+      <obj_property name="ElementShortName">pc_value[10:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_value[10:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/programMemo/o_data">
+      <obj_property name="ElementShortName">o_data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_data[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/datapathUnit/i_dataFromRom">
+      <obj_property name="ElementShortName">i_dataFromRom[10:0]</obj_property>
+      <obj_property name="ObjectShortName">i_dataFromRom[10:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/datapathUnit/selector_A/i_fromOp">
+      <obj_property name="ElementShortName">i_fromOp[15:0]</obj_property>
+      <obj_property name="ObjectShortName">i_fromOp[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/datapathUnit/selector_A/i_sExt">
+      <obj_property name="ElementShortName">i_sExt[15:0]</obj_property>
+      <obj_property name="ObjectShortName">i_sExt[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/datapathUnit/selector_A/i_fromRAM">
+      <obj_property name="ElementShortName">i_fromRAM[15:0]</obj_property>
+      <obj_property name="ObjectShortName">i_fromRAM[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/datapathUnit/selector_A/i_selA">
+      <obj_property name="ElementShortName">i_selA[1:0]</obj_property>
+      <obj_property name="ObjectShortName">i_selA[1:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/datapathUnit/selector_A/o_2acc">
+      <obj_property name="ElementShortName">o_2acc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_2acc[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/datapathUnit/accum/o_2op">
+      <obj_property name="ElementShortName">o_2op[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_2op[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/datapathUnit/selector_B/o_2Op">
+      <obj_property name="ElementShortName">o_2Op[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_2Op[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/datapathUnit/op/o_2selA">
+      <obj_property name="ElementShortName">o_2selA[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_2selA[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/dataMemo/block">
+      <obj_property name="ElementShortName">block[2047:0][15:0]</obj_property>
+      <obj_property name="ObjectShortName">block[2047:0][15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/dbus">
+      <obj_property name="ElementShortName">dbus[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dbus[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/dataMemo/i_datafromAcc">
+      <obj_property name="ElementShortName">i_datafromAcc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">i_datafromAcc[15:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/dataMemo/i_addr">
+      <obj_property name="ElementShortName">i_addr[10:0]</obj_property>
+      <obj_property name="ObjectShortName">i_addr[10:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/dataMemo/addr_reg">
+      <obj_property name="ElementShortName">addr_reg[10:0]</obj_property>
+      <obj_property name="ObjectShortName">addr_reg[10:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/deco_tb/uut/dataMemo/o_data">
+      <obj_property name="ElementShortName">o_data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_data[15:0]</obj_property>
+   </wvobject>
+</wave_config>
